@@ -53,11 +53,6 @@ $ yarn start
 The app will be available in your browser at the address: http://localhost:3000.
 
 
-## 💻 Projeto
-
-Spotify Profile, é um app para você visualizar de forma personalizada seus dados de uso do Spotify, como número de seguidores, playlists, seus artistas mais ouvidos, e sua músicas mais ouvidas.
-
-
 ## 📝 License
 
 This project is licensed under the MIT.
